@@ -1,4 +1,4 @@
 baseURL = 'https://nida1kara.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = "Nida'nın Dijital Notları"
 theme = "PaperMod"
