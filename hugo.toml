@@ -2,3 +2,22 @@ baseURL = 'https://nida1kara.github.io/'
 locale = 'en-us'
 title = "Nida'nın Dijital Notları"
 theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    identifier = "muhendislik"
+    name = "Mühendislik"
+    url = "/muhendislik/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "fotografcilik"
+    name = "Fotoğrafçılık"
+    url = "/fotografcilik/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "kitaplar"
+    name = "Kitaplar"
+    url = "/kitaplar/"
+    weight = 30
