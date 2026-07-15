@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2026 22:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merhaba Dünya</title>
+      <link>http://localhost:1313/posts/merhaba-dunya/</link>
+      <pubDate>Tue, 14 Jul 2026 22:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/merhaba-dunya/</guid>
+      <description>&lt;p&gt;Bu benim ilk blog yazım! Süreci ve projelerimi burada paylaşacağım.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
