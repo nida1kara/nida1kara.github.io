@@ -11,13 +11,7 @@ theme = "PaperMod"
     weight = 10
 
   [[menu.main]]
-    identifier = "fotografcilik"
-    name = "Fotoğrafçılık"
-    url = "/fotografcilik/"
-    weight = 20
-
-  [[menu.main]]
     identifier = "kitaplar"
     name = "Kitaplar"
     url = "/kitaplar/"
-    weight = 30
+    weight = 20
