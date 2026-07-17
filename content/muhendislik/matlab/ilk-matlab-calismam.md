@@ -6,4 +6,5 @@ tags = ['Matlab']
 +++
 
 Bu projede Matlab kullanarak temel bir sinyal işleme uygulaması geliştirdim. Karşılaştığım en büyük zorluk döngüleri kurmaktı ama şu şekilde çözdüm...
-![MATLAB uygulama logosu](/images/matlab_figure1.png)
+![MATLAB uygulama logosu](/images/matlab_figure1.png) 
+                                     Figure 1 matlab logosu
