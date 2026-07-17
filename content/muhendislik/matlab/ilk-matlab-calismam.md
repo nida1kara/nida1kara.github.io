@@ -4,3 +4,6 @@ draft = false
 title = 'Ilk Matlab Calismam'
 tags = ['Matlab']
 +++
+
+Bu projede Matlab kullanarak temel bir sinyal işleme uygulaması geliştirdim. Karşılaştığım en büyük zorluk döngüleri kurmaktı ama şu şekilde çözdüm...
+![Grafiğin Açıklaması](/images/matlab_figure1.jpg)

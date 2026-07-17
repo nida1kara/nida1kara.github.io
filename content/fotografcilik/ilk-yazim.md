@@ -1,5 +1,5 @@
 +++
 date = '2026-07-15T23:56:29+03:00'
 draft = false
-title = 'Ilk Yazim'
+title = 'Ilk Yazim'git 
 +++
