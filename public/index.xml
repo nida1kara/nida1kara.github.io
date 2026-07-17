@@ -6,8 +6,29 @@
     <description>Recent content on Nida&#39;nın Dijital Notları</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:04:55 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:22:44 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ilk Matlab Calismam</title>
+      <link>http://localhost:1313/muhendislik/matlab/ilk-matlab-calismam/</link>
+      <pubDate>Fri, 17 Jul 2026 14:22:44 +0300</pubDate>
+      <guid>http://localhost:1313/muhendislik/matlab/ilk-matlab-calismam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ilk Yazim</title>
+      <link>http://localhost:1313/fotografcilik/ilk-yazim/</link>
+      <pubDate>Wed, 15 Jul 2026 23:56:29 +0300</pubDate>
+      <guid>http://localhost:1313/fotografcilik/ilk-yazim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dune Incelemesi</title>
+      <link>http://localhost:1313/kitaplar/dune-incelemesi/</link>
+      <pubDate>Wed, 15 Jul 2026 23:43:04 +0300</pubDate>
+      <guid>http://localhost:1313/kitaplar/dune-incelemesi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ilk Projem</title>
       <link>http://localhost:1313/muhendislik/ilk-projem/</link>

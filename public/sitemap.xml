@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/muhendislik/ilk-projem/</loc>
-    <lastmod>2026-07-15T20:04:55+03:00</lastmod>
+    <loc>http://localhost:1313/muhendislik/matlab/ilk-matlab-calismam/</loc>
+    <lastmod>2026-07-17T14:22:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/matlab/</loc>
+    <lastmod>2026-07-17T14:22:44+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/muhendislik/</loc>
-    <lastmod>2026-07-15T20:04:55+03:00</lastmod>
+    <lastmod>2026-07-17T14:22:44+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-17T14:22:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-17T14:22:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fotografcilik/</loc>
+    <lastmod>2026-07-15T23:56:29+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fotografcilik/ilk-yazim/</loc>
+    <lastmod>2026-07-15T23:56:29+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kitaplar/dune-incelemesi/</loc>
+    <lastmod>2026-07-15T23:43:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kitaplar/</loc>
+    <lastmod>2026-07-15T23:43:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/muhendislik/ilk-projem/</loc>
     <lastmod>2026-07-15T20:04:55+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/merhaba-dunya/</loc>
@@ -18,9 +39,5 @@
     <lastmod>2026-07-14T22:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/kitaplar/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

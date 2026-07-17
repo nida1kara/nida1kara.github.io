@@ -6,6 +6,14 @@
     <description>Recent content in Kitaplars on Nida&#39;nın Dijital Notları</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 23:43:04 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/kitaplar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dune Incelemesi</title>
+      <link>http://localhost:1313/kitaplar/dune-incelemesi/</link>
+      <pubDate>Wed, 15 Jul 2026 23:43:04 +0300</pubDate>
+      <guid>http://localhost:1313/kitaplar/dune-incelemesi/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
